@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0c156b"],{"462e":function(n,t,e){"use strict";e.r(t);var c={},s=e("2877"),u=Object(s.a)(c,function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  potChart\n")])},[],!1,null,null,null);t.default=u.exports}}]);
